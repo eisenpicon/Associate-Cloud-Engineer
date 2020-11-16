@@ -125,4 +125,4 @@ Ejercicios prácticos o de laboratorio para tener experiencia en el despliegue d
 
 ### Registro examen de certificación
 
-Luego de realizar todos los pasos anteriores y te sientas listo es hora de [regístrarte para el examen de certificación](https://cloud.google.com/certification/register/). En enlace te mostrara un gráfico con las certificaciones de Google Cloud y en los idiomas disponibles. Seleccionas el idioma que prefieras para registrarte al examen. Cabe indicar que cada idioma requiere una cuenta distinta de Google Cloud Webassessor.
+Luego de realizar todos los pasos anteriores y te sientas listo es hora de [regístrarte para el examen de certificación](https://cloud.google.com/certification/register/). El enlace te mostrara un gráfico con las certificaciones de Google Cloud y en los idiomas disponibles. Seleccionas el idioma que prefieras para registrarte al examen. Cabe indicar que cada idioma requiere una cuenta distinta de Google Cloud Webassessor.
