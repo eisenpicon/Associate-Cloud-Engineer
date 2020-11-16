@@ -12,9 +12,12 @@ Una lista seleccionada de recursos para aprender sobre la certificacion de Googl
 
 Till today, there are **8 certifications** available for Google Cloud which are listed below. Choose the one you are interested in and us the reference link to jump directly to the right area. 
 
-- [Acerca el Examen ](##Acerca-el-Examen )
+- [Acerca el Examen ](#Acerca-el-Examen )
 - [Pulicaciones](#Pulicaciones)
-
+- [Libros](#Libros)
+- [Videos / Sesiones](#Videos-/-Sesiones)
+- [Capacitaciones en línea](#Capacitaciones-en-línea)
+- [Enlaces de Qwiklabs](#Enlaces-de-Qwiklabs)
 ## Acerca el Examen 
 Contiene la descripcion general y resumida del examen de Certififacion Associate Cloud Engineer
 <div align="center"> 
