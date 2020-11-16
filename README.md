@@ -78,6 +78,11 @@ Una lista seleccionada de recursos para aprender sobre la certificacion de Googl
 | Título / Enlace |
 |     :---      |
 |[Kubernetes in Google Cloud](https://google.qwiklabs.com/quests/29) |
+|[Getting Started: Create and Manage Cloud Resources](https://google.qwiklabs.com/quests/120?utm_source=google&utm_medium=website&utm_campaign=certpath-ace) |
+|[Perform Foundational Infrastructure Tasks in Google Cloud](https://google.qwiklabs.com/quests/118?utm_source=google&utm_medium=website&utm_campaign=certpath-ace) |
+|[Set up and Configure a Cloud Environment in Google Cloud](https://google.qwiklabs.com/quests/119?utm_source=google&utm_medium=website&utm_campaign=certpath-ace) |
+|[Build and Secure Networks in Google Cloud](https://google.qwiklabs.com/quests/128?utm_source=google&utm_medium=website&utm_campaign=certpath-ace) |
+|[Deploy to Kubernetes in Google Cloud](https://google.qwiklabs.com/quests/116?utm_source=google&utm_medium=website&utm_campaign=certpath-ace) |
 |[Hello Cloud Run](https://google.qwiklabs.com/focuses/5162?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=4763270)|
 |[App Dev - Deploying the Application into App Engine Flexible Environment - Java](https://google.qwiklabs.com/focuses/1060?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=476247)|
 | [GCP Essentials](https://google.qwiklabs.com/quests/23) | 
