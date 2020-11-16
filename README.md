@@ -18,6 +18,8 @@ Tenemos una lista de 6 topicos importantes para el estudio del examen Associate 
 - [Videos / Sesiones](#Videos-Sesiones)
 - [Capacitaciones en línea](#Capacitaciones-en-línea)
 - [Enlaces de Qwiklabs](#Enlaces-de-Qwiklabs)
+- [Registro examen de certificación](#Registro-examen-de-certificación)
+
 
 ## Acerca el Examen 
 Contiene la descripcion general y resumida del examen de Certififacion Associate Cloud Engineer
@@ -121,3 +123,6 @@ Ejercicios prácticos o de laboratorio para tener experiencia en el despliegue d
    ![alt text](imagenes/qwiklabs.png "Credenciales Qwiklabs")
 </div>
 
+### Registro examen de certificación
+
+Luego de realizar todos los pasos anteriores y te sientas listo es hora de [regístrarte para el examen de certificación](https://cloud.google.com/certification/register/). En enlace te mostrara un gráfico con las certificaciones de Google Cloud y en los idiomas disponibles. Seleccionas el idioma que prefieras para registrarte al examen. Cabe indicar que cada idioma requiere una cuenta distinta de Google Cloud Webassessor.
