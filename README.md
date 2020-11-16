@@ -96,7 +96,7 @@ Los cursos y capacitaciones de manera e-learning del contenido de Associate Clou
 
 ### Enlaces de Qwiklabs
 
-Ejercicios practicos o de laboratorio para tener experiencia en el desplique de los servicios de Google Cloud Platform.
+Ejercicios prácticos o de laboratorio para tener experiencia en el despliegue de los servicios de Google Cloud Platform.
 
 | ***Título / Enlace*** |
 |     :---      |
