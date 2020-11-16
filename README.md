@@ -116,3 +116,8 @@ Ejercicios practicos o de laboratorio para tener experiencia en el desplique de 
 | [Perform Foundational Infrastructure Tasks in Google Cloud](https://www.qwiklabs.com/quests/118) | 
 | [Exploring APIs](https://www.qwiklabs.com/quests/54) | 
 | [Using the Cloud SDK Command Line](https://www.qwiklabs.com/quests/95) | 
+<div align="center"> 
+  
+   ![alt text](imagenes/qwiklabs.png "Credenciales Qwiklabs")
+</div>
+
