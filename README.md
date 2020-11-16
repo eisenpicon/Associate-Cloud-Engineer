@@ -10,7 +10,7 @@ Una lista seleccionada de recursos para aprender sobre la certificacion de Googl
 
 # Contenido
 
-Tenemos una lista de 6 topicos importantes de la certififacion. Elija el que topico de su preferencia y nuestros enlaces de referencia le enviara directamente al área correcta.
+Tenemos una lista de 6 topicos importantes para el estudio del examen Associate Cloud Engineer. Elija el que topico de su preferencia y nuestros enlaces de referencia le enviara directamente al área correcta.
 
 - [Acerca el Examen ](#Acerca-el-Examen )
 - [Pulicaciones](#Pulicaciones)
@@ -25,11 +25,11 @@ Contiene la descripcion general y resumida del examen de Certififacion Associate
 
 |***CONTENIDO*** | ***DESCRIPCION***|
 | :---:|    :---      |
-| **Link Offcial:** | https://cloud.google.com/certification/cloud-engineer | 
+| **Enlace Oficial:** | https://cloud.google.com/certification/cloud-engineer | 
 | **Experiencia:** | Intermedio | 
 | **Duracion:** | 2 horas | 
-| **Costo de inscripción:** | 125 USD (adicioanl el impuestos cuando corresponda). adicional hay un descuento para aquellos de países con menor paridad de poder adquisitivo. | 
-| **Formato del examen:** | Opción múltiple y selección múltiple, tomada en persona en un centro de pruebas [ Busca un centro de evaluación cercano](https://www.kryteriononline.com/Locate-Test-Center), o el examen en línea supervisado desde una ubicación remota. Consulta los  [requisitos](https://www.webassessor.com/wa.do?page=certInfo&branding=GOOGLECLOUD&tabs=13) del examen en línea . | 
+| **Costo de inscripción:** | 125 USD (adicional los impuestos cuando corresponda). Hay un descuento para aquellos países con menor paridad de poder adquisitivo. | 
+| **Formato del examen:** | Opción múltiple y selección múltiple, tomada en persona en un centro de pruebas [ centro de evaluación cercana](https://www.kryteriononline.com/Locate-Test-Center), o en línea supervisado desde una ubicación remota. Consulta los  [requisitos](https://www.webassessor.com/wa.do?page=certInfo&branding=GOOGLECLOUD&tabs=13) del examen en línea . | 
 | **Experiencia recomendada:** | 6 meses + experiencia práctica con GCP. | 
 | **Examen de práctica oficial:** | https://cloud.google.com/certification/practice-exam/cloud-engineer | 
 </div>
@@ -75,7 +75,7 @@ Videos publicados donde se describe y dan un resumen del examen Associate Cloud 
 
 ### Capacitaciones en línea
 
-Son cursos y capacitaciones de manera e-learning del contenido de Associate Cloud Engineer.
+Los cursos y capacitaciones de manera e-learning del contenido de Associate Cloud Engineer.
 
 | ***Site*** | ***Título / Enlace*** |
 | :---:         |     :---      |
@@ -96,7 +96,7 @@ Son cursos y capacitaciones de manera e-learning del contenido de Associate Clou
 
 ### Enlaces de Qwiklabs
 
-Ejercicios practicos o de laboratoria para tener experiencia en el desplique de los servicios de Google Cloud Platform.
+Ejercicios practicos o de laboratorio para tener experiencia en el desplique de los servicios de Google Cloud Platform.
 
 | ***Título / Enlace*** |
 |     :---      |
