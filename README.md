@@ -10,14 +10,15 @@ Una lista seleccionada de recursos para aprender sobre la certificacion de Googl
 
 # Contenido
 
-Till today, there are **8 certifications** available for Google Cloud which are listed below. Choose the one you are interested in and us the reference link to jump directly to the right area. 
+Tenemos una lista de 6 topicos importantes de la certififacion. Elija el que topico de su preferencia y nuestros enlaces de referencia le enviara directamente al área correcta.
 
 - [Acerca el Examen ](#Acerca-el-Examen )
 - [Pulicaciones](#Pulicaciones)
 - [Libros](#Libros)
-- [Videos / Sesiones](#Videos-/-Sesiones)
+- [Videos / Sesiones](#Videos-Sesiones)
 - [Capacitaciones en línea](#Capacitaciones-en-línea)
 - [Enlaces de Qwiklabs](#Enlaces-de-Qwiklabs)
+
 ## Acerca el Examen 
 Contiene la descripcion general y resumida del examen de Certififacion Associate Cloud Engineer
 <div align="center"> 
@@ -63,7 +64,7 @@ Lista de los libros mas importates con sus respectivos autores y fechas de publi
 |2018/04 | [Google Cloud Platform Cookbook](https://www.google.com/search?q=Google+Cloud+Platform+Cookbook+by+Legorie+Rajan+PS) |[Legorie Rajan PS](https://www.google.com/search?sa=X&biw=1536&bih=731&sxsrf=ALeKk00DU0aXfKr-3JXeQvwSb_8mfM6eWg:1605548936281&q=Legorie+Rajan&stick=H4sIAAAAAAAAAOPgE-LVT9c3NEzPMEuqMC8xUIJys5OyTYrLi7RkspOt9JPy87P1y4syS0pS8-LL84uyrRJLSzLyixax8vqkpucXZaYqBCVmJebtYGUEAC-gW55RAAAA&ved=2ahUKEwihspDwz4ftAhX9JrkGHY0-D3oQmxMoATAYegQIFBAD&cshid=1605549059640179)  |
 |2018/08 | [Google Cloud Platform in Action](https://www.google.com/search?q=Google+Cloud+Platform+in+Action+JJ+Geewax) |[JJ Geewax](https://www.google.com/search?sa=X&biw=1536&bih=731&sxsrf=ALeKk016K9ih0qCzNLiVMhdAjq4uphBinA:1605549138155&q=JJ+Geewax&stick=H4sIAAAAAAAAAOPgE-LVT9c3NEw2tcwuNC5IU4Jw0wyNsoqLSjK0ZLKTrfST8vOz9cuLMktKUvPiy_OLsq0SS0sy8osWsXJ6eSm4p6aWJ1bsYGUEAPptTitNAAAA&ved=2ahUKEwjQ67HQ0IftAhVsL7kGHb2SDfQQmxMoATAZegQIERAD)  |
 
-### Videos / Sesiones
+### Videos Sesiones
 
 Videos publicados donde se describe y dan un resumen del examen Associate Cloud Engineer.
 
