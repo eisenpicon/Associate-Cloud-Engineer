@@ -10,8 +10,13 @@ Una lista seleccionada de recursos para aprender sobre la certificacion de Googl
 
 # Contenido
 
+Till today, there are **8 certifications** available for Google Cloud which are listed below. Choose the one you are interested in and us the reference link to jump directly to the right area. 
 
-## About the exam
+- [Acerca el Examen ](##Acerca-el-Examen )
+- [Pulicaciones](#Associate-Cloud-Engineer-\-Pulicaciones)
+
+## Acerca el Examen 
+Contiene la descripcion general y resumida del examen de Certififacion Associate Cloud Engineer
 <div align="center"> 
 
 |***CONTENIDO*** | ***DESCRIPCION***|
@@ -25,8 +30,11 @@ Una lista seleccionada de recursos para aprender sobre la certificacion de Googl
 | **Examen de práctica oficial:** | https://cloud.google.com/certification/practice-exam/cloud-engineer | 
 </div>
 
-### Pulicaciones
-| Publicado | Título / Enlace | Autor |
+## Pulicaciones
+
+Resumen de los blogs de diferentes publicaciones sobre el examen Associate Cloud Engineer
+
+| ***Publicado*** | ***Título / Enlace*** | ***Autor*** |
 | :---:         |     :---      |          :--- |
 | 2020/09 | [How I prepared for GCP ACE Exam](https://rakeshvardan.hashnode.dev/how-i-prepared-for-google-cloud-certified-associate-cloud-engineer-exam) | Rakesh Vardan |
 | 2020/07 | [From ALC to ACE](https://medium.com/@MercyMarkus/from-alc-to-google-certified-associate-cloud-engineer-b7e5707f9bf0) | Mercy Markus |
@@ -43,20 +51,29 @@ Una lista seleccionada de recursos para aprender sobre la certificacion de Googl
 | 2018/05 | [Associate Cloud Engineer — Study Guide](https://medium.com/@joaovitor/associate-cloud-engineer-study-guide-cf7e74da1bb6) | João Vitor Guimarães |
 
 ### Libros
-| Publicado | Título / Enlace | Autor |
+
+Lista de los libros mas importates con sus respectivos autores y fechas de publicaciones para complementar el aprendizaje de Google Cloud Platform.
+
+| ***Publicado*** | ***Título / Enlace*** | ***Autor*** |
 | :---:         |     :---     |       :--- |
 |2019/03 | [Google Cloud Certified Associate Cloud Engineer Study Guide](https://www.google.com/search?q=official+google+cloud+certified+associate+cloud+engineer+study+guide) | [Dan Sullivan](https://www.google.com/search?sa=X&biw=1536&bih=731&sxsrf=ALeKk02b_f2l0dihSFstzyHnaJpovXxgzA:1605549031345&q=Dan+Sullivan&stick=H4sIAAAAAAAAAOPgE-LVT9c3NMwwqMwpyqsoUOIBc8uys4tNjMq0ZLKTrfST8vOz9cuLMktKUvPiy_OLsq0SS0sy8osWsfK4JOYpBJfm5GSWJebtYGUEAGivc-JPAAAA&ved=2ahUKEwiqzrqd0IftAhVrIbkGHSHgAbgQmxMoATAYegQIExAD) |
 |2018/04 | [Google Cloud Platform Cookbook](https://www.google.com/search?q=Google+Cloud+Platform+Cookbook+by+Legorie+Rajan+PS) |[Legorie Rajan PS](https://www.google.com/search?sa=X&biw=1536&bih=731&sxsrf=ALeKk00DU0aXfKr-3JXeQvwSb_8mfM6eWg:1605548936281&q=Legorie+Rajan&stick=H4sIAAAAAAAAAOPgE-LVT9c3NEzPMEuqMC8xUIJys5OyTYrLi7RkspOt9JPy87P1y4syS0pS8-LL84uyrRJLSzLyixax8vqkpucXZaYqBCVmJebtYGUEAC-gW55RAAAA&ved=2ahUKEwihspDwz4ftAhX9JrkGHY0-D3oQmxMoATAYegQIFBAD&cshid=1605549059640179)  |
 |2018/08 | [Google Cloud Platform in Action](https://www.google.com/search?q=Google+Cloud+Platform+in+Action+JJ+Geewax) |[JJ Geewax](https://www.google.com/search?sa=X&biw=1536&bih=731&sxsrf=ALeKk016K9ih0qCzNLiVMhdAjq4uphBinA:1605549138155&q=JJ+Geewax&stick=H4sIAAAAAAAAAOPgE-LVT9c3NEw2tcwuNC5IU4Jw0wyNsoqLSjK0ZLKTrfST8vOz9cuLMktKUvPiy_OLsq0SS0sy8osWsXJ6eSm4p6aWJ1bsYGUEAPptTitNAAAA&ved=2ahUKEwjQ67HQ0IftAhVsL7kGHb2SDfQQmxMoATAZegQIERAD)  |
 
 ### Videos / Sesiones
-| Publicado | Título / Enlace | Editor | Autor |
+
+Videos publicados donde se describe y dan un resumen del examen Associate Cloud Engineer.
+
+| ***Publicado*** | ***Título / Enlace*** | ***Editor*** | ***Autor*** |
 | :---:         |     :---     |     :---       |          :--- |
 |2020/10 | [Preparing for Google Cloud Associate Cloud Engineer Exam](https://youtu.be/RbIbS0YMFs4) |  [Google Cloud](https://www.youtube.com/channel/UCTMRxtyHoE3LPcrl-kT4AQQ)| Parvez Mulla |
 |2020/02 | [The Certified Q&A - Associate Cloud Engineer Playlist](https://www.youtube.com/watch?v=MESzvFfGhN8&list=PLQMsfKRZZviRwqJwNmh1eAWnRMvlrk40x) | [AwesomeGCP](https://www.youtube.com/channel/UCIGDDqu5DzlaaC4XzXj_4-A)| Sathish VJ |
 
 ### Capacitaciones en línea
-| Site | Título / Enlace |
+
+Son cursos y capacitaciones de manera e-learning del contenido de Associate Cloud Engineer.
+
+| ***Site*** | ***Título / Enlace*** |
 | :---:         |     :---      |
 | Coursera | [Architecting with Google Compute Engine](https://www.coursera.org/specializations/gcp-architecture) |
 | Coursera | [Getting Started with Google Kubernetes Engine](https://www.coursera.org/learn/google-kubernetes-engine?) |
@@ -73,9 +90,11 @@ Una lista seleccionada de recursos para aprender sobre la certificacion de Googl
 | acloud.guru | [Google Certified Associate Cloud Engineer 2019](https://acloud.guru/learn/gcp-certified-associate-cloud-engineer) 
 
 
-### Qwiklabs Enlaces
+### Enlaces de Qwiklabs
 
-| Título / Enlace |
+Ejercicios practicos o de laboratoria para tener experiencia en el desplique de los servicios de Google Cloud Platform.
+
+| ***Título / Enlace*** |
 |     :---      |
 |[Kubernetes in Google Cloud](https://google.qwiklabs.com/quests/29) |
 |[Getting Started: Create and Manage Cloud Resources](https://google.qwiklabs.com/quests/120?utm_source=google&utm_medium=website&utm_campaign=certpath-ace) |
