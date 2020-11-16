@@ -72,9 +72,14 @@ Una lista seleccionada de recursos para aprender sobre la certificacion de Googl
 | Udemy | [Google Cloud Associate Cloud Engineer](https://www.udemy.com/google-certified-associate-cloud-engineer/?couponCode=GCPFREELY) |
 | acloud.guru | [Google Certified Associate Cloud Engineer 2019](https://acloud.guru/learn/gcp-certified-associate-cloud-engineer) 
 
+
 ### Qwiklabs Enlaces
-| Título / Enlace  |
-| :---:         |
+
+| Título / Enlace |
+|     :---      |
+|[Kubernetes in Google Cloud](https://google.qwiklabs.com/quests/29) |
+|[Hello Cloud Run](https://google.qwiklabs.com/focuses/5162?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=4763270)|
+|[App Dev - Deploying the Application into App Engine Flexible Environment - Java](https://google.qwiklabs.com/focuses/1060?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=476247)|
 | [GCP Essentials](https://google.qwiklabs.com/quests/23) | 
 | [Cloud Engineering](https://www.qwiklabs.com/quests/66) | 
 | [Ensure Access & Identity in Google Cloud](https://www.qwiklabs.com/quests/150) | 
