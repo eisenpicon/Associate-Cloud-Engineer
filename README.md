@@ -99,24 +99,24 @@ Los cursos y capacitaciones de manera e-learning del contenido de **Associate Cl
 
 Ejercicios prácticos o de laboratorio para tener experiencia en el despliegue de los servicios de Google Cloud Platform.
 
-| ***Título / Enlace*** | ***Duración*** |
-|     :---      |     :---      |
-|[Kubernetes in Google Cloud](https://google.qwiklabs.com/quests/29) |5 horas | 
-|[Getting Started: Create and Manage Cloud Resources](https://google.qwiklabs.com/quests/120?utm_source=google&utm_medium=website&utm_campaign=certpath-ace) | 5 horas | 
-|[Perform Foundational Infrastructure Tasks in Google Cloud](https://google.qwiklabs.com/quests/118?utm_source=google&utm_medium=website&utm_campaign=certpath-ace) | 4 horas | 
-|[Set up and Configure a Cloud Environment in Google Cloud](https://google.qwiklabs.com/quests/119?utm_source=google&utm_medium=website&utm_campaign=certpath-ace) | 8 horas | 
-|[Build and Secure Networks in Google Cloud](https://google.qwiklabs.com/quests/128?utm_source=google&utm_medium=website&utm_campaign=certpath-ace) | 7 horas | 
-|[Deploy to Kubernetes in Google Cloud](https://google.qwiklabs.com/quests/116?utm_source=google&utm_medium=website&utm_campaign=certpath-ace) | 7 horas | 
-|[Hello Cloud Run](https://google.qwiklabs.com/focuses/5162?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=4763270)| 1 hora | 
-|[App Dev - Deploying the Application into App Engine Flexible Environment - Java](https://google.qwiklabs.com/focuses/1060?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=476247)| 1 hora | 
-| [GCP Essentials](https://google.qwiklabs.com/quests/23) | 4 horas | 
-| [Cloud Engineering](https://www.qwiklabs.com/quests/66) | 7 horas |
-| [Ensure Access & Identity in Google Cloud](https://www.qwiklabs.com/quests/150) | 24 horas | 
-| [Set up and Configure a Cloud Environment in Google Cloud](https://www.qwiklabs.com/quests/119) | 8 horas | 
-| [Baseline: Infrastructure](https://www.qwiklabs.com/quests/33) | 3 horas | 
-| [Perform Foundational Infrastructure Tasks in Google Cloud](https://www.qwiklabs.com/quests/118) | 4 horas | 
-| [Exploring APIs](https://www.qwiklabs.com/quests/54) | 7 horas | 
-| [Using the Cloud SDK Command Line](https://www.qwiklabs.com/quests/95) | 5 horas |
+| ***Título / Enlace*** | ***Nivel*** | ***Duración*** |
+|     :---      |     :---      |:---      |
+|[Kubernetes in Google Cloud](https://google.qwiklabs.com/quests/29)| Avanzado | 5 horas | 
+|[Getting Started: Create and Manage Cloud Resources](https://google.qwiklabs.com/quests/120?utm_source=google&utm_medium=website&utm_campaign=certpath-ace) | Introductorio | 5 horas | 
+|[Perform Foundational Infrastructure Tasks in Google Cloud](https://google.qwiklabs.com/quests/118?utm_source=google&utm_medium=website&utm_campaign=certpath-ace) | Introductorio | 4 horas | 
+|[Set up and Configure a Cloud Environment in Google Cloud](https://google.qwiklabs.com/quests/119?utm_source=google&utm_medium=website&utm_campaign=certpath-ace) | Avanzado | 8 horas | 
+|[Build and Secure Networks in Google Cloud](https://google.qwiklabs.com/quests/128?utm_source=google&utm_medium=website&utm_campaign=certpath-ace) | Avanzado | 7 horas | 
+|[Deploy to Kubernetes in Google Cloud](https://google.qwiklabs.com/quests/116?utm_source=google&utm_medium=website&utm_campaign=certpath-ace) | Avanzado | 7 horas | 
+|[Hello Cloud Run](https://google.qwiklabs.com/focuses/5162?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=4763270)| Fundamental | 1 hora | 
+|[App Dev - Deploying the Application into App Engine Flexible Environment - Java](https://google.qwiklabs.com/focuses/1060?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A0%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=476247)| Fundamental | 1 hora | 
+| [GCP Essentials](https://google.qwiklabs.com/quests/23) | Introductorio | 4 horas | 
+| [Cloud Engineering](https://www.qwiklabs.com/quests/66) | Fundamental | 7 horas |
+| [Ensure Access & Identity in Google Cloud](https://www.qwiklabs.com/quests/150) | Fundamental | 24 horas | 
+| [Set up and Configure a Cloud Environment in Google Cloud](https://www.qwiklabs.com/quests/119) | Avanzado | 8 horas | 
+| [Baseline: Infrastructure](https://www.qwiklabs.com/quests/33) | Introductorio | 3 horas | 
+| [Perform Foundational Infrastructure Tasks in Google Cloud](https://www.qwiklabs.com/quests/118) | Introductorio | 4 horas | 
+| [Exploring APIs](https://www.qwiklabs.com/quests/54) | Avanzado | 7 horas | 
+| [Using the Cloud SDK Command Line](https://www.qwiklabs.com/quests/95) | Fundamental | 5 horas |
 <div align="center"> 
   
    ![alt text](imagenes/qwiklabs.png "Credenciales Qwiklabs")
