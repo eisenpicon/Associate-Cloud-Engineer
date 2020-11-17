@@ -10,7 +10,7 @@ Una lista seleccionada de recursos para aprender sobre la certificacion de Googl
 
 # Contenido
 
-Tenemos una lista de 6 topicos importantes para el estudio del examen Associate Cloud Engineer. Elija el que topico de su preferencia y nuestros enlaces de referencia le enviara directamente al área correcta.
+Tenemos una lista de 6 topicos importantes para el estudio del examen **Associate Cloud Engineer (ACE)**. Elija el que topico de su preferencia y nuestros enlaces de referencia le enviara directamente al área correcta.
 
 - [Acerca el Examen ](#Acerca-el-Examen )
 - [Publicaciones](#Publicaciones)
@@ -22,7 +22,7 @@ Tenemos una lista de 6 topicos importantes para el estudio del examen Associate 
 
 
 ## Acerca el Examen 
-Contiene la descripcion general y resumida del examen de Certififacion Associate Cloud Engineer
+Contiene la descripcion general y resumida del examen de Certififacion **Associate Cloud Engineer (ACE)**
 <div align="center"> 
 
 |***CONTENIDO*** | ***DESCRIPCION***|
@@ -38,23 +38,23 @@ Contiene la descripcion general y resumida del examen de Certififacion Associate
 
 ## Publicaciones
 
-Resumen de los blogs de diferentes publicaciones sobre el examen Associate Cloud Engineer
+Resumen de los blogs de diferentes publicaciones sobre el examen **Associate Cloud Engineer (ACE)**
 
 | ***Fecha de Publicación*** | ***Título / Enlace*** | ***Autor*** |
 | :---:         |     :---      |          :--- |
-| 2020/09 | [How I prepared for GCP ACE Exam](https://rakeshvardan.hashnode.dev/how-i-prepared-for-google-cloud-certified-associate-cloud-engineer-exam) | Rakesh Vardan |
-| 2020/07 | [From ALC to ACE](https://medium.com/@MercyMarkus/from-alc-to-google-certified-associate-cloud-engineer-b7e5707f9bf0) | Mercy Markus |
-| 2020/03 | [How I Passed the GCP ACE](https://medium.com/@charles_j/how-i-passed-the-google-cloud-associate-engineer-certification-63a0fd932057) | Charles J |
-| 2019/12 | [How to plan and clear Google Cloud Associate Cloud Enginner Certificate](http://www.legendshub.com/blog/2019/12/24/how-to-plan-and-clear-google-cloud-associate-certificate-legendshub-blog/) | amrit_3327 |
+| 2020/09 | [How I prepared for Google Associate Cloud Engineer (ACE) Exam](https://rakeshvardan.hashnode.dev/how-i-prepared-for-google-cloud-certified-associate-cloud-engineer-exam) | Rakesh Vardan |
+| 2020/07 | [From ALC to Google ACE](https://medium.com/@MercyMarkus/from-alc-to-google-certified-associate-cloud-engineer-b7e5707f9bf0) | Mercy Markus |
+| 2020/03 | [How I Passed the Google ACE](https://medium.com/@charles_j/how-i-passed-the-google-cloud-associate-engineer-certification-63a0fd932057) | Charles J |
+| 2019/12 | [How to plan and clear Google Cloud ACE Certificate](http://www.legendshub.com/blog/2019/12/24/how-to-plan-and-clear-google-cloud-associate-certificate-legendshub-blog/) | amrit_3327 |
 | 2019/11 | [How to Ace the Certification](https://telegraphhillsoftware.com/google-cloud-certification-ace/) | Blake Rogers |
-| 2019/05 | [Notes from my Associate Cloud Engineer — Section 2](https://medium.com/@fahed.dorgaa/notes-from-my-google-cloud-associate-cloud-engineer-section-2-5469797b1079) | Fahed Dorgaa |
-| 2019/04 | [Notes from my Associate Cloud Engineer — Section 1](https://medium.com/@fahed.dorgaa/i-have-passed-the-associate-cloud-engineer-exam-373076d07288) | Fahed Dorgaa |
-| 2019/03 | [Google Cloud Certification : Associate Cloud Engineer](https://medium.com/devopslinks/google-cloud-certification-associate-cloud-engineer-dc25765a23e2) | Raj |
-| 2019/03 | [Google Associate Cloud Engineer (ACE) Certification Exam: Our Tips for Success](https://www.mobilise.cloud/blog/google-associate-cloud-engineer-exam) | mobilise.cloud |
+| 2019/05 | [Notes from my ACE — Section 2](https://medium.com/@fahed.dorgaa/notes-from-my-google-cloud-associate-cloud-engineer-section-2-5469797b1079) | Fahed Dorgaa |
+| 2019/04 | [Notes from my ACE — Section 1](https://medium.com/@fahed.dorgaa/i-have-passed-the-associate-cloud-engineer-exam-373076d07288) | Fahed Dorgaa |
+| 2019/03 | [Google Cloud Certification : ACE](https://medium.com/devopslinks/google-cloud-certification-associate-cloud-engineer-dc25765a23e2) | Raj |
+| 2019/03 | [Google ACE Certification Exam: Our Tips for Success](https://www.mobilise.cloud/blog/google-associate-cloud-engineer-exam) | mobilise.cloud |
 | 2018/12 | [How I Cleared 3 Google Cloud Certifications in 3 Weeks](https://medium.com/@yesdeepakverma/how-i-cleared-all-3-google-cloud-certifications-in-3-weeks-f5591aa22572) | Deepak Verma | 
 | 2018/11 | [Writing and Passing the Google Cloud Associate Engineer Certification](https://medium.com/@sathishvj/writing-and-passing-the-google-cloud-associate-engineer-certification-a60c2f6d99c2) | Sathish VJ |
-| 2018/08 | [Associate Cloud Engineer Certification Exam Overview- Things to do](https://medium.com/@achilleslinux/associate-cloud-engineer-certification-exam-overview-things-to-do-466c7b9a2885) | Avinash Kumar |
-| 2018/05 | [Associate Cloud Engineer — Study Guide](https://medium.com/@joaovitor/associate-cloud-engineer-study-guide-cf7e74da1bb6) | João Vitor Guimarães |
+| 2018/08 | [ACE Certification Exam Overview- Things to do](https://medium.com/@achilleslinux/associate-cloud-engineer-certification-exam-overview-things-to-do-466c7b9a2885) | Avinash Kumar |
+| 2018/05 | [ACE — Study Guide](https://medium.com/@joaovitor/associate-cloud-engineer-study-guide-cf7e74da1bb6) | João Vitor Guimarães |
 
 ### Libros
 
@@ -68,31 +68,31 @@ Lista de los libros mas importates con sus respectivos autores y fechas de publi
 
 ### Videos Sesiones
 
-Videos publicados donde se describe y dan un resumen del examen Associate Cloud Engineer.
+Videos publicados donde se describe y dan un resumen del examen **Associate Cloud Engineer (ACE)**.
 
 | ***Fecha de Publicación*** | ***Título / Enlace*** | ***Editor*** | ***Autor*** |
 | :---:         |     :---     |     :---       |          :--- |
-|2020/10 | [Preparing for Google Cloud Associate Cloud Engineer Exam](https://youtu.be/RbIbS0YMFs4) |  [Google Cloud](https://www.youtube.com/channel/UCTMRxtyHoE3LPcrl-kT4AQQ)| Parvez Mulla |
-|2020/02 | [The Certified Q&A - Associate Cloud Engineer Playlist](https://www.youtube.com/watch?v=MESzvFfGhN8&list=PLQMsfKRZZviRwqJwNmh1eAWnRMvlrk40x) | [AwesomeGCP](https://www.youtube.com/channel/UCIGDDqu5DzlaaC4XzXj_4-A)| Sathish VJ |
+|2020/10 | [Preparing for Google Cloud ACE Exam](https://youtu.be/RbIbS0YMFs4) |  [Google Cloud](https://www.youtube.com/channel/UCTMRxtyHoE3LPcrl-kT4AQQ)| Parvez Mulla |
+|2020/02 | [The Certified Q&A - ACE Playlist](https://www.youtube.com/watch?v=MESzvFfGhN8&list=PLQMsfKRZZviRwqJwNmh1eAWnRMvlrk40x) | [AwesomeGCP](https://www.youtube.com/channel/UCIGDDqu5DzlaaC4XzXj_4-A)| Sathish VJ |
 
 ### Capacitaciones en línea
 
-Los cursos y capacitaciones de manera e-learning del contenido de Associate Cloud Engineer.
+Los cursos y capacitaciones de manera e-learning del contenido de **Associate Cloud Engineer (ACE)**.
 
 | ***Site*** | ***Título / Enlace*** |***Tipo*** |***Duración*** |
 | :---:         |     :---      |:---      |:---      |
 | Coursera | [Architecting with Google Compute Engine](https://www.coursera.org/specializations/gcp-architecture) | Especialización | 3 meses |
 | Coursera | [Getting Started with Google Kubernetes Engine](https://www.coursera.org/learn/google-kubernetes-engine?) | Curso| 13 horas |
-| Coursera | [Preparing for the Google Cloud Associate Cloud Engineer Exam](https://www.coursera.org/learn/preparing-cloud-associate-cloud-engineer-exam) |Curso| 8 horas |
+| Coursera | [Preparing for the Google Cloud ACE Exam](https://www.coursera.org/learn/preparing-cloud-associate-cloud-engineer-exam) |Curso| 8 horas |
 | Coursera | [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals) |Curso| 12 horas |
 | Coursera | [Architecting with Google Cloud Platform Specialization](https://www.coursera.org/specializations/gcp-architecture) | Especialización | 3 meses |
 | Coursera | [Essential Google Cloud Infrastructure: Foundation](https://www.coursera.org/learn/gcp-infrastructure-foundation) |Curso| 8 horas |
 | Coursera | [Essential Google Cloud Infrastructure: Core Services](https://www.coursera.org/learn/gcp-infrastructure-core-services) |Curso| 9 horas |
 | Coursera | [Elastic Google Cloud Infrastructure: Scaling and Automation](https://www.coursera.org/learn/gcp-infrastructure-scaling-automation) |Curso| 9 horas |
 | Coursera | [Introduction to Cloud Identity](https://www.coursera.org/learn/cloud-identity) |Curso| 11 horas |
-| Udemy | [Google Cloud Platform Associate Cloud Engineer Bootcamp](https://www.udemy.com/course/google-cloud-platform-associate-cloud-engineer-bootcamp/) |Curso| 11 horas |
-| Udemy | [Google Cloud Associate Cloud Engineer](https://www.udemy.com/google-certified-associate-cloud-engineer/?couponCode=GCPFREELY) | Curso| 15 horas |
-| acloud.guru | [Google Certified Associate Cloud Engineer 2020](https://acloud.guru/learn/gcp-certified-associate-cloud-engineer)| Curso| 10 horas |
+| Udemy | [Google Cloud Platform ACE Bootcamp](https://www.udemy.com/course/google-cloud-platform-associate-cloud-engineer-bootcamp/) |Curso| 11 horas |
+| Udemy | [Google Cloud ACE](https://www.udemy.com/google-certified-associate-cloud-engineer/?couponCode=GCPFREELY) | Curso| 15 horas |
+| acloud.guru | [Google Certified ACE 2020](https://acloud.guru/learn/gcp-certified-associate-cloud-engineer)| Curso| 10 horas |
 
 
 ### Enlaces de Qwiklabs
