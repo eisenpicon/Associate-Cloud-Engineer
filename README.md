@@ -92,7 +92,7 @@ Los cursos y capacitaciones de manera e-learning del contenido de Associate Clou
 | Coursera | [Introduction to Cloud Identity](https://www.coursera.org/learn/cloud-identity) |Curso| 11 horas |
 | Udemy | [Google Cloud Platform Associate Cloud Engineer Bootcamp](https://www.udemy.com/course/google-cloud-platform-associate-cloud-engineer-bootcamp/) |Curso| 11 horas |
 | Udemy | [Google Cloud Associate Cloud Engineer](https://www.udemy.com/google-certified-associate-cloud-engineer/?couponCode=GCPFREELY) | Curso| 15 horas |
-| acloud.guru | [Google Certified Associate Cloud Engineer 2019](https://acloud.guru/learn/gcp-certified-associate-cloud-engineer)| Curso| 10 horas |
+| acloud.guru | [Google Certified Associate Cloud Engineer 2020](https://acloud.guru/learn/gcp-certified-associate-cloud-engineer)| Curso| 10 horas |
 
 
 ### Enlaces de Qwiklabs
