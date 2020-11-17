@@ -26,7 +26,7 @@ Contiene la descripcion general y resumida del examen de Certififacion **Associa
 <div align="center"> 
 
 |***CONTENIDO*** | ***DESCRIPCION***|
-| :---:|    :---      |
+| ------------- | ------------- |
 | **Enlace Oficial:** | https://cloud.google.com/certification/cloud-engineer | 
 | **Experiencia:** | Intermedio | 
 | **Duracion:** | 2 horas | 
