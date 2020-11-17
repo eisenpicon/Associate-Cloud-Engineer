@@ -81,11 +81,11 @@ Los cursos y capacitaciones de manera e-learning del contenido de Associate Clou
 
 | ***Site*** | ***Título / Enlace*** |***Tipo*** |***Duración (Horas)*** |
 | :---:         |     :---      |:---      |:---      |
-| Coursera | [Architecting with Google Compute Engine](https://www.coursera.org/specializations/gcp-architecture) | Especialización | 3 Meses |
+| Coursera | [Architecting with Google Compute Engine](https://www.coursera.org/specializations/gcp-architecture) | Especialización | 3 meses |
 | Coursera | [Getting Started with Google Kubernetes Engine](https://www.coursera.org/learn/google-kubernetes-engine?) | Curso| 13 horas |
 | Coursera | [Preparing for the Google Cloud Associate Cloud Engineer Exam](https://www.coursera.org/learn/preparing-cloud-associate-cloud-engineer-exam) |Curso| 8 horas |
 | Coursera | [Google Cloud Platform Fundamentals: Core Infrastructure](https://www.coursera.org/learn/gcp-fundamentals) |Curso| 12 horas |
-| Coursera | [Architecting with Google Cloud Platform Specialization](https://www.coursera.org/specializations/gcp-architecture) | Especialización | 3 Meses |
+| Coursera | [Architecting with Google Cloud Platform Specialization](https://www.coursera.org/specializations/gcp-architecture) | Especialización | 3 meses |
 | Coursera | [Essential Google Cloud Infrastructure: Foundation](https://www.coursera.org/learn/gcp-infrastructure-foundation) |Curso| 8 horas |
 | Coursera | [Essential Google Cloud Infrastructure: Core Services](https://www.coursera.org/learn/gcp-infrastructure-core-services) |Curso| 9 horas |
 | Coursera | [Elastic Google Cloud Infrastructure: Scaling and Automation](https://www.coursera.org/learn/gcp-infrastructure-scaling-automation) |Curso| 9 horas |
