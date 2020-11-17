@@ -79,7 +79,7 @@ Videos publicados donde se describe y dan un resumen del examen Associate Cloud 
 
 Los cursos y capacitaciones de manera e-learning del contenido de Associate Cloud Engineer.
 
-| ***Site*** | ***Título / Enlace*** |***Tipo*** |***Duración (Horas)*** |
+| ***Site*** | ***Título / Enlace*** |***Tipo*** |***Duración*** |
 | :---:         |     :---      |:---      |:---      |
 | Coursera | [Architecting with Google Compute Engine](https://www.coursera.org/specializations/gcp-architecture) | Especialización | 3 meses |
 | Coursera | [Getting Started with Google Kubernetes Engine](https://www.coursera.org/learn/google-kubernetes-engine?) | Curso| 13 horas |
@@ -99,7 +99,7 @@ Los cursos y capacitaciones de manera e-learning del contenido de Associate Clou
 
 Ejercicios prácticos o de laboratorio para tener experiencia en el despliegue de los servicios de Google Cloud Platform.
 
-| ***Título / Enlace*** | ***Duración (Horas)*** |
+| ***Título / Enlace*** | ***Duración*** |
 |     :---      |     :---      |
 |[Kubernetes in Google Cloud](https://google.qwiklabs.com/quests/29) |5 horas | 
 |[Getting Started: Create and Manage Cloud Resources](https://google.qwiklabs.com/quests/120?utm_source=google&utm_medium=website&utm_campaign=certpath-ace) | 5 horas | 
