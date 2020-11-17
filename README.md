@@ -40,7 +40,7 @@ Contiene la descripcion general y resumida del examen de Certififacion Associate
 
 Resumen de los blogs de diferentes publicaciones sobre el examen Associate Cloud Engineer
 
-| ***Publicado*** | ***Título / Enlace*** | ***Autor*** |
+| ***Fecha de Publicación*** | ***Título / Enlace*** | ***Autor*** |
 | :---:         |     :---      |          :--- |
 | 2020/09 | [How I prepared for GCP ACE Exam](https://rakeshvardan.hashnode.dev/how-i-prepared-for-google-cloud-certified-associate-cloud-engineer-exam) | Rakesh Vardan |
 | 2020/07 | [From ALC to ACE](https://medium.com/@MercyMarkus/from-alc-to-google-certified-associate-cloud-engineer-b7e5707f9bf0) | Mercy Markus |
@@ -60,7 +60,7 @@ Resumen de los blogs de diferentes publicaciones sobre el examen Associate Cloud
 
 Lista de los libros mas importates con sus respectivos autores y fechas de publicaciones para complementar el aprendizaje de Google Cloud Platform.
 
-| ***Publicado*** | ***Título / Enlace*** | ***Autor*** |
+| ***Fecha de Publicación*** | ***Título / Enlace*** | ***Autor*** |
 | :---:         |     :---     |       :--- |
 |2019/03 | [Google Cloud Certified Associate Cloud Engineer Study Guide](https://www.google.com/search?q=official+google+cloud+certified+associate+cloud+engineer+study+guide) | [Dan Sullivan](https://www.google.com/search?sa=X&biw=1536&bih=731&sxsrf=ALeKk02b_f2l0dihSFstzyHnaJpovXxgzA:1605549031345&q=Dan+Sullivan&stick=H4sIAAAAAAAAAOPgE-LVT9c3NMwwqMwpyqsoUOIBc8uys4tNjMq0ZLKTrfST8vOz9cuLMktKUvPiy_OLsq0SS0sy8osWsfK4JOYpBJfm5GSWJebtYGUEAGivc-JPAAAA&ved=2ahUKEwiqzrqd0IftAhVrIbkGHSHgAbgQmxMoATAYegQIExAD) |
 |2018/04 | [Google Cloud Platform Cookbook](https://www.google.com/search?q=Google+Cloud+Platform+Cookbook+by+Legorie+Rajan+PS) |[Legorie Rajan PS](https://www.google.com/search?sa=X&biw=1536&bih=731&sxsrf=ALeKk00DU0aXfKr-3JXeQvwSb_8mfM6eWg:1605548936281&q=Legorie+Rajan&stick=H4sIAAAAAAAAAOPgE-LVT9c3NEzPMEuqMC8xUIJys5OyTYrLi7RkspOt9JPy87P1y4syS0pS8-LL84uyrRJLSzLyixax8vqkpucXZaYqBCVmJebtYGUEAC-gW55RAAAA&ved=2ahUKEwihspDwz4ftAhX9JrkGHY0-D3oQmxMoATAYegQIFBAD&cshid=1605549059640179)  |
@@ -70,7 +70,7 @@ Lista de los libros mas importates con sus respectivos autores y fechas de publi
 
 Videos publicados donde se describe y dan un resumen del examen Associate Cloud Engineer.
 
-| ***Publicado*** | ***Título / Enlace*** | ***Editor*** | ***Autor*** |
+| ***Fecha de Publicación*** | ***Título / Enlace*** | ***Editor*** | ***Autor*** |
 | :---:         |     :---     |     :---       |          :--- |
 |2020/10 | [Preparing for Google Cloud Associate Cloud Engineer Exam](https://youtu.be/RbIbS0YMFs4) |  [Google Cloud](https://www.youtube.com/channel/UCTMRxtyHoE3LPcrl-kT4AQQ)| Parvez Mulla |
 |2020/02 | [The Certified Q&A - Associate Cloud Engineer Playlist](https://www.youtube.com/watch?v=MESzvFfGhN8&list=PLQMsfKRZZviRwqJwNmh1eAWnRMvlrk40x) | [AwesomeGCP](https://www.youtube.com/channel/UCIGDDqu5DzlaaC4XzXj_4-A)| Sathish VJ |
